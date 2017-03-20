@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    <title>{% if page.title and page.title != "About" %}Grey's {{ page.title }}{% else if page.title == "About" %}About Grey{% else %}Grey's Website{% endif %}</title>
 
     {% include meta.html %}
 
@@ -27,8 +27,19 @@
           </div>
 
           <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
+
+            {% assign display_pages = site.pages | sort: 'title' %}
+
+            {% for p in display_pages %}
+              {% if p.title and p.name != "404.md" %}
+                {% if p.title == page.title %}
+                  <u><a href="{{ p.url }}">{{ p.title }}</a></u>
+                {% else %}
+                  <a href="{{ p.url }}">{{ p.title }}</a>
+                {% endif %}
+              {% endif %}
+            {% endfor %}
+
           </nav>
         </header>
       </div>
@@ -42,6 +53,14 @@
       <div class="container">
         <footer class="footer">
           {% include svg-icons.html %}
+          <br>
+          <font size="-2">You can find the source code for this website
+            <a href="http://github.com/mxgrey/mxgrey.github.io">here</a>. It is
+            a customized version of <a href="https://github.com/barryclark/jekyll-now">
+            jekyll-now</a>, powered by <a href="https://jekyllrb.com/">Jekyll</a>
+            and <a href="https://pages.github.com/">Github.io</a>.
+            <br>Feel free to borrow and modify the source code of this website
+            (but please do not pretend to be me; that would be rude). </font>
         </footer>
       </div>
     </div>

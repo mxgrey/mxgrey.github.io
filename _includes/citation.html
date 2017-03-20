@@ -1,0 +1,21 @@
+<table style="margin-bottom: 20px;">
+  <tr>
+    <td width="180" rowspan="2" style="vertical-align:middle; padding: 0px 12px;">
+      <a href="{{include.url}}"><img src="/images/{{include.image_file}}" width="180"></a>
+    </td>
+    <td style="vertical-align:top">
+      <table>
+        <tr>
+          <td style="LINE-HEIGHT:120%">
+            <a href="{{include.url}}">{{include.title}}</a>
+          </td>
+        </tr>
+        <tr>
+          <td rowspan="10" style="LINE-HEIGHT:130%; font-size: 70%">{{include.authors}}.
+            <i>{{include.conference}}</i>{% if include.year %}, {{include.year}}{% endif %}{% if include.pages %}, pp. {{include.pages}}{% endif %}.
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
