@@ -71,20 +71,20 @@ permalink: /publications/
 
 
 {%include citation.html
-  image_file="multi-process.png"
-  url="https://smartech.gatech.edu/bitstream/handle/1853/48458/GreyTePRA13-hubo-architecture.pdf?sequence=1&isAllowed=y"
-  title="Multi-Process Control Software for HUBO2 Plus Robot"
-  authors="Michael X. Grey, Neil Dantam, Daniel M. Lofaro, Aaron Bobick, Magnus Egerstedt, Paul Oh, and Mike Stilman"
+  image_file="power_tools.png"
+  url="https://smartech.gatech.edu/bitstream/handle/1853/49920/OF-TEPRA13.pdf?sequence=1&isAllowed=y"
+  title="Humanoid Robot Teleoperation for Tasks with Power Tools"
+  authors="Rowland O'Flaherty, Peter Vieira, Michael X. Grey, Paul Oh, Aaron Bobick, Magnus Egerstedt, and Mike Stilman"
   conference="IEEE Int'l Conf. on Tech. for Practical Robot Applications (TEPRA)"
   year="2013"
 %}
 
 
 {%include citation.html
-  image_file="power_tools.png"
-  url="https://smartech.gatech.edu/bitstream/handle/1853/49920/OF-TEPRA13.pdf?sequence=1&isAllowed=y"
-  title="Humanoid Robot Teleoperation for Tasks with Power Tools"
-  authors="Rowland O'Flaherty, Peter Vieira, Michael X. Grey, Paul Oh, Aaron Bobick, Magnus Egerstedt, and Mike Stilman"
+  image_file="multi-process.png"
+  url="https://smartech.gatech.edu/bitstream/handle/1853/48458/GreyTePRA13-hubo-architecture.pdf?sequence=1&isAllowed=y"
+  title="Multi-Process Control Software for HUBO2 Plus Robot"
+  authors="Michael X. Grey, Neil Dantam, Daniel M. Lofaro, Aaron Bobick, Magnus Egerstedt, Paul Oh, and Mike Stilman"
   conference="IEEE Int'l Conf. on Tech. for Practical Robot Applications (TEPRA)"
   year="2013"
 %}
