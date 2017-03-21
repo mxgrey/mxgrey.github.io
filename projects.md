@@ -10,6 +10,8 @@ Most of my open-source software development effort over the last few years has b
 
 My role in DART has been as one of the primary contributors and co-maintainers for the last two and half years (my official title is *project co-director*). For DART-5.0, I made major revisions to the API, implemented lazy evaluation, modernized the memory management system, introduced "frame semantics" (which allows all kinematic data to be handled in arbitrary reference frames), created an extensible whole body inverse kinematics module, and wrote an [OpenSceneGraph](http://www.openscenegraph.org/) interface which allows users to create customizable 3D GUIs for visualizing and interacting with DART simulations. In DART-6.0, I rolled out an extensible `State` and `Properties` system which allows users to augment the native dynamics information of DART with their own custom state and model data.
 
+DART was recently awarded the Grand Prize of the [2016 Open Source Software World Challenge](http://ossaward.org/eng/m0101.do).
+
 {% include image.html file="dart_logo_big.jpg" url="https://dartsim.github.io/" alt="DART Logo" max-width="360" caption="" %}
 
 ## Past
