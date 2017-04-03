@@ -31,7 +31,7 @@
             {% assign display_pages = site.pages | sort: 'title' %}
 
             {% for p in display_pages %}
-              {% if p.title and p.name != "404.md" %}
+              {% if p.title and p.name != "404.md" and p.name != "bibtex.md" and p.layout != "bib" %}
                 {% if p.title == page.title %}
                   <u><a href="{{ p.url }}">{{ p.title }}</a></u>
                 {% else %}
@@ -40,7 +40,7 @@
               {% endif %}
             {% endfor %}
 
-            <a href="/cv.pdf">Resume/CV</a>
+            <a href="/cv.pdf">Résumé/CV</a>
 
           </nav>
         </header>

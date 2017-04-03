@@ -6,6 +6,7 @@ permalink: /publications/
 
 <a name="rpg"></a>
 {%include citation.html
+  nickname="grey2017footstep"
   image_file="manifolds.png"
   url="https://arxiv.org/pdf/1610.00700.pdf"
   title="Footstep and Motion Planning in Semi-unstructured Environments Using Randomized Possibility Graphs"
@@ -15,6 +16,7 @@ permalink: /publications/
 %}
 
 {%include citation.html
+  nickname="grey2016humanoid"
   image_file="hbf.png"
   url="http://www.cc.gatech.edu/graphics/projects/Grey/humanoid_hbf_iros2016.pdf"
   title="Humanoid Manipulation Planning using Backward-Forward Search"
@@ -26,6 +28,7 @@ permalink: /publications/
 
 
 {%include citation.html
+  nickname="hubicki2016work"
   image_file="work_those_arms.png"
   url="https://smartech.gatech.edu/bitstream/handle/1853/55477/icra-2016-hubo.pdf"
   title="Work those Arms: Toward Dynamic and Stable Humanoid Walking that Optimizes Full-Body Motion"
@@ -37,6 +40,7 @@ permalink: /publications/
 
 
 {%include citation.html
+  nickname="zucker2015general"
   image_file="jfr.png"
   url="http://vision.cis.udel.edu/pubs/2015/ZJGRHSB15/Zucker_et_al-2015-Journal_of_Field_Robotics.pdf"
   title="A General-purpose System for Teleoperation of the DRC-HUBO Humanoid Robot"
@@ -48,6 +52,7 @@ permalink: /publications/
 
 <a name="vtd"></a>
 {%include citation.html
+  nickname="grey2014planning"
   image_file="heavy_lift.png"
   url="http://www.swarthmore.edu/NatSci/mzucker1/papers/heavy_lifting_humanoids2014.pdf"
   title="Planning Heavy Lifts for Humanoid Robots"
@@ -59,6 +64,7 @@ permalink: /publications/
 
 
 {%include citation.html
+  nickname="luo2014robust"
   image_file="hubo_ladder.png"
   url="http://motion.pratt.duke.edu/papers/ICRA2014-Luo-ladderclimbing.pdf"
   title="Robust Ladder-Climbing with a Humanoid Robot with Application to the DARPA Robotics Challenge"
@@ -70,6 +76,7 @@ permalink: /publications/
 
 <a name="teleop"></a>
 {%include citation.html
+  nickname="oflaherty2013humanoid"
   image_file="power_tools.png"
   url="https://smartech.gatech.edu/bitstream/handle/1853/49920/OF-TEPRA13.pdf?sequence=1&isAllowed=y"
   title="Humanoid Robot Teleoperation for Tasks with Power Tools"
@@ -80,6 +87,7 @@ permalink: /publications/
 
 
 {%include citation.html
+  nickname="grey2013multi"
   image_file="multi-process.png"
   url="https://smartech.gatech.edu/bitstream/handle/1853/48458/GreyTePRA13-hubo-architecture.pdf?sequence=1&isAllowed=y"
   title="Multi-Process Control Software for HUBO2 Plus Robot"
