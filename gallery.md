@@ -4,23 +4,23 @@ title: Gallery
 permalink: /gallery/
 ---
 
-## Humanoid Motion/Task Planning
+## <a name="humanoids"></a>Humanoid Motion/Task Planning
 
-Here we introduce the `Randomized Possibility Graph` (RPG) which provides a scalable approach to utilizing probabilistically complete planners on highly constrained platforms like humanoids. The RPG works by evaluating the *possibilities* of various routes before performing computationally expensive whole body inverse kinematics.
+Here we introduce the [Randomized Possibility Graph](/publications#rpg) (RPG) which provides a scalable approach to utilizing probabilistically complete planners on highly constrained platforms like humanoids. The RPG works by evaluating the *possibilities* of various routes before performing computationally expensive whole body inverse kinematics.
 
 <div style="width: 640px; height: 420px; margin: 0 auto;">
 <iframe width="640" height="360" src="https://www.youtube.com/embed/fgNZhCXr0sE" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
-This work combines task and motion planning for humanoids, using the `Hybrid Backward-Forward` method by [Caelan Garrett](http://web.mit.edu/caelan/www/).
+<a name="locomanipulation"></a>This work combines task and motion planning for humanoids, using the [Hybrid Backward-Forward](http://web.mit.edu/caelan/www/research/hbf/) method by [Caelan Garrett](http://web.mit.edu/caelan/www/).
 
 <div style="width: 640px; height: 420px; margin: 0 auto;">
 <iframe width="640" height="360" src="https://www.youtube.com/embed/x59XWXnLKN8" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
-Here we generate motion plans for lifting large/heavy objects in the presence of obstacles. We introduce a parameter called the `Virtual Task Dimension` which allows the robot to plan out how it can avoid obstacles while shifting its weight to lift and release heavy objects.
+Here we generate motion plans for lifting large/heavy objects in the presence of obstacles. We introduce a parameter called the [Virtual Task Dimension](/publications#vtd) which allows the robot to plan out how it can avoid obstacles while shifting its weight to lift and release heavy objects.
 
 <div style="width: 640px; height: 420px; margin: 0 auto;">
 <iframe width="640" height="360" src="https://www.youtube.com/embed/brj6gVoz_C4" frameborder="0" allowfullscreen></iframe>

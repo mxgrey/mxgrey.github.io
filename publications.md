@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-
+<a name="rpg"></a>
 {%include citation.html
   image_file="manifolds.png"
   url="https://arxiv.org/pdf/1610.00700.pdf"
@@ -13,7 +13,6 @@ permalink: /publications/
   conference="IEEE Int'l Conf. on Robotics and Automation (ICRA)"
   year="2017"
 %}
-
 
 {%include citation.html
   image_file="hbf.png"
@@ -47,7 +46,7 @@ permalink: /publications/
   pages="336-351"
 %}
 
-
+<a name="vtd"></a>
 {%include citation.html
   image_file="heavy_lift.png"
   url="http://www.swarthmore.edu/NatSci/mzucker1/papers/heavy_lifting_humanoids2014.pdf"
@@ -69,7 +68,7 @@ permalink: /publications/
   pages="2792-2798"
 %}
 
-
+<a name="teleop"></a>
 {%include citation.html
   image_file="power_tools.png"
   url="https://smartech.gatech.edu/bitstream/handle/1853/49920/OF-TEPRA13.pdf?sequence=1&isAllowed=y"
