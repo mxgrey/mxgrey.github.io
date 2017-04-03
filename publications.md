@@ -38,7 +38,7 @@ permalink: /publications/
   pages="1552-1559"
 %}
 
-
+<a name="teleop"></a>
 {%include citation.html
   nickname="zucker2015general"
   image_file="jfr.png"
@@ -74,7 +74,6 @@ permalink: /publications/
   pages="2792-2798"
 %}
 
-<a name="teleop"></a>
 {%include citation.html
   nickname="oflaherty2013humanoid"
   image_file="power_tools.png"
