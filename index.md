@@ -22,6 +22,6 @@ My past research projects primarily revolve around [Humanoid Robotics](/gallery#
 
 If you have questions about my work or are interested in collaborating, I encourage you to contact me.
 
-I'm always happy to take questions or concerns regarding Gazebo or DART, but if the topic might be relevant to a broader audience, then I strongly encourage you to post on the issues pages for each project ([Gazebo](https://bitbucket.org/osrf/gazebo/issues)|[DART](https://github.com/dartsim/dart/issues)). If you're unsure whether your question or concern warrants posting an issue, I'll be glad to advise you in the matter when you contact me.
+I'm always happy to take questions or concerns regarding Gazebo or DART, but if the topic might be relevant to a broader audience, then I strongly encourage you to post on the issues pages for each project ([Gazebo](https://bitbucket.org/osrf/gazebo/issues), [DART](https://github.com/dartsim/dart/issues)). If you're unsure whether your question or concern warrants posting an issue, I'll be glad to advise you in the matter when you contact me.
 
 [greyxmike@gmail.com](mailto:greyxmike@gmail.com)
