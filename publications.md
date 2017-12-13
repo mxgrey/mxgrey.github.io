@@ -4,6 +4,28 @@ title: Publications
 permalink: /publications/
 ---
 
+<a name="thesis"></a>
+{%include citation.html
+  nickname="grey2017thesis"
+  image_file="rpg_graph.png"
+  url="https://arxiv.org/pdf/1702.00425.pdf"
+  title="High level decomposition for bipedal locomotion planning"
+  authors="Michael X. Grey"
+  conference="In partial fulfillment of the requirements for the degree 'Doctor of Philosophy in Robotics' at Georgia Tech"
+  year="2017"
+%}
+
+<a name="rpg_completeness"></a>
+{%include citation.html
+  nickname="grey2017completeness"
+  image_file="rpg_completeness.png"
+  url="https://arxiv.org/pdf/1702.00425.pdf"
+  title="Probabilistic Completeness of Randomized Possibility Graphs Applied to Bipedal Walking in Semi-unstructured Environments"
+  authors="Michael X. Grey, Aaron D. Ames, and C. Karen Liu"
+  conference="Robotics Science and Systems (RSS)"
+  year="2017"
+%}
+
 <a name="rpg"></a>
 {%include citation.html
   nickname="grey2017footstep"
