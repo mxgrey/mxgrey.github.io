@@ -1,3 +1,10 @@
+---
+layout: bib
+title: Multi-process control software for hubo2 plus robot
+permalink: /bib/grey2013multi
+---
+
+```
 @INPROCEEDINGS{Grey-RSS-17, 
     AUTHOR    = {Michael X. Grey AND Aaron D. Ames AND C. Karen Liu}, 
     TITLE     = {Probabilistic Completeness of Randomized Possibility Graphs Applied to Bipedal Walking in Semi-unstructured Environments}, 
@@ -7,3 +14,4 @@
     MONTH     = {July}, 
     DOI       = {10.15607/RSS.2017.XIII.029} 
 }
+```
