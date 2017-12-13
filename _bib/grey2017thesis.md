@@ -1,7 +1,7 @@
 ---
 layout: bib
-title: Multi-process control software for hubo2 plus robot
-permalink: /bib/grey2013multi
+title: High Level Decomposition for Bipedal Locomotion Planning
+permalink: /bib/grey2017thesis
 ---
 
 ```

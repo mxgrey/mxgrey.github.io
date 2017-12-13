@@ -1,7 +1,7 @@
 ---
 layout: bib
-title: Multi-process control software for hubo2 plus robot
-permalink: /bib/grey2013multi
+title: Probabilistic Completeness of Randomized Possibility Graphs Applied to Bipedal Walking in Semi-unstructured Environments
+permalink: /bib/grey2017completeness
 ---
 
 ```
