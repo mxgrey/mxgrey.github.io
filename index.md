@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-Thanks for stopping by! My name is Grey, and I'm a recent doctoral graduate from Georgia Tech, doing some awesome open source robotics software development at [Open Robotics](https://www.osrfoundation.org/). I primarily contribute to [Gazebo](http://gazebosim.org/) and [Ignition](http://ignitionrobotics.org/).
+Thanks for stopping by! My name is Grey, and I'm a doctoral graduate from Georgia Tech, doing some awesome open source robotics software development at [Open Robotics](https://www.osrfoundation.org/). I primarily contribute to [Gazebo](http://gazebosim.org/) and [Ignition](http://ignitionrobotics.org/).
 
 ## Software Development
 
