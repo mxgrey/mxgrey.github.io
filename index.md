@@ -4,11 +4,19 @@ title: About
 permalink: /
 ---
 
-Thanks for stopping by! My name is Grey, and I'm a senior software engineer at [Open Robotics](https://openrobotics.org) which I joined after finishing my doctorate in robotics at Georgia Tech. At Open Robotics I primarily contribute to the [Robotics Middleware Framework](https://github.com/osrf/rmf_core), [System of Systems Synthesizer](https://github.com/osrf/soss), [Gazebo](http://gazebosim.org/), and [Ignition](http://ignitionrobotics.org/) projects.
+Thanks for stopping by! My name is Grey, and I'm a software engineering manager at [Intrinsic](https://www.intrinsic.ai/). In the past I was a software engineer at [Open Robotics](https://www.openrobotics.org/) which I joined after finishing my doctorate in robotics at Georgia Tech.
+
+Through Intrinsic I work as the project lead of [Open-RMF](https://open-rmf.org) which is an open source software framework for orchestrating autonomous systems, with an emphasis on mobile robots.
 
 ## Volunteer Efforts
 
-I'm proud to volunteer my time to the [Code in the Community](https://www.saturdaykids.com/social-mission/code-in-the-community/) program which provides free computer programming lessons to children of underprivileged families in Singapore. This is a fantastic program, and I would urge anyone in Singapore with a programming background to try out a round of volunteering.
+I was proud to volunteer my time to the [Code in the Community](https://www.saturdaykids.com/social-mission/code-in-the-community/) program which provided free computer programming lessons to children of underprivileged families in Singapore.
+
+With the CITC program now retired, I am eager to find other opportunities to volunteer as a STEM teacher in Singapore. Please feel free to reach out to me if you know of any.
+
+## Current Research Topics
+
+I am actively engaged in research around orchestration of multi-agent systems, in particular how to resolve resource contention, guarantee correct async behavior, and make complex systems easier to understand for humans who are not technical experts. I have a particularly strong focus on mutli-agent mobile robot systems, but am also interested in the general problem of orchestration of autonomous distributed systems.
 
 ## Past Research Topics
 
