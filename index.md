@@ -26,6 +26,11 @@ My past research projects primarily revolved around [Humanoid Robotics](/gallery
 
 If you have questions about my work or are interested in collaborating, I encourage you to contact me.
 
+I chair several recurring events for Open Robotics which you can find on the [official events calendar](https://calendar.google.com/calendar/u/0/embed?src=agf3kajirket8khktupm9go748@group.calendar.google.com&ctz=UTC):
+* Open-RMF: Community Forum, every other Monday at 4pm SGT
+* Open-RMF Project Meeting, every other Tuesday at 9am SGT
+* Interoperability Special Interest Group, the first Thursday of each month at 11pm SGT
+
 I'm always happy to take questions or concerns regarding the projects that I work on, but if the topic might be relevant to a broader audience, then I strongly encourage you to post on the issues pages for the relevant project. If you're unsure whether your question or concern warrants posting an issue, I'll be glad to advise you in the matter when you contact me.
 
 [greyxmike@gmail.com](mailto:greyxmike@gmail.com)
